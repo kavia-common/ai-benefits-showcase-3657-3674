@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/ai-benefits-showcase-3657-3674/slide_show_frontend"
+}
